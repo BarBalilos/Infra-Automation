@@ -1,0 +1,4 @@
+# Infra-Automation project dependencies
+
+# For future JSON/config validation (not yet used, planned upgrade)
+jsonschema>=4.0.0
